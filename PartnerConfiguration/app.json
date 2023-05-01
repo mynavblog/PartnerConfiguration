@@ -1,0 +1,32 @@
+{
+  "id": "1cd24425-0977-481b-8b3a-9546bac270e4",
+  "name": "Partner Configuration Wizard",
+  "publisher": "bc4all.com",
+  "version": "1.0.0.0",
+  "brief": "Extension allows to import predefined packages from Azure Blob Storage",
+  "description": "Extension allows to import predefined packages from Azure Blob Storage",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.bc4all.com",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 86210,
+      "to": 86220
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
