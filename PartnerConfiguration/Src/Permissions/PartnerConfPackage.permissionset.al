@@ -8,7 +8,7 @@ permissionset 86210 MNBPartnerConfWizard
         table "MNB Partner Config. Setup" = X,
         codeunit "MNB Config Pack. Import" = X,
         page "MNB Partner Config. Packages" = X,
-        page "MNB Configuration Setup" = X,
+        page "MNB Partner Config Setup" = X,
         page "MNB Partner Configuration" = X,
         page "MNB Container Content" = X;
 }
